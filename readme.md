@@ -1,0 +1,1 @@
+npm i express morgan nodemon ejs boday-parser dotenv mongoose axios
